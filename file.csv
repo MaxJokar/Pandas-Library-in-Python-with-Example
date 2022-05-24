@@ -1,0 +1,39 @@
+Series_reference,Period,Reference_period,Data_value,STATUS,UNITS,MAGNTUDE,Subject,Group,Series_title
+LASQ.SA1AZZ,1992.09,Quarterly,8461,Final,Dollars,3,Local Authority Statistics - LAS,Surplus - Actual,Operating surplus/deficit excluding non-operating items
+LASQ.SA1AZZ,1992.12,Quarterly,17144,Final,Dollars,3,Local Authority Statistics - LAS,Surplus - Actual,Operating surplus/deficit excluding non-operating itemserating surplus/deficit excluding non-operating items
+LASQ.SA1AZZ,1996.06,Quarterly,11089,Final,Dollars,3,Local Authority Statistics - LAS,Surplus - Actual,Operating surplus/deficit excluding non-operating itemse
+LASQ.SARADZ,2007.12,Quarterly,116324,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Investment income
+LASQ.SARADZ,2008.03,Quarterly,81859,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Investment incomestment incomeense - Seasonally Adjusted,Depreciation
+LASQ.SSEACZ,2007.03,Quarterly,293047,Final,Dollars,3,Local Authority Statistics - LAS,Expense - Seasonally Adjusted,Depreciation
+LASQ.SSEACZ,2007.06,Quarterly,288495,Final,Dollars,3,Local Authority Statistics - LAS,Expense - Seasonally Adjusted,Depreciation
+LASQ.SSEACZ,2007.09,Quarterly,308563,Final,Dollars,3,Local Authority Statistics - LAS,Expense - Seasonally Adjusted,Depreciationy Statistics - LAS,Expense - Seasonally Adjusted,Depreciation
+LASQ.SSEACZ,2009.06,Quarterly,374063,Final,Dollars,3,Local Authority Statistics - LAS,Expense - Seasonally Adjusted,Depreciationtics - LAS,Income - Seasonally Adjusted,All government grants and subsidies received
+LASQ.SSRACZ,2011.12,Quarterly,313329,Final,Dollars,3,Local Authority Statistics - LAS,Income - Seasonally Adjusted,All government grants and subsidies received
+LASQ.SSRACZ,2012.03,Quarterly,280633,Final,Dollars,3,Local Authority Statistics - LAS,Income - Seasonally Adjusted,All government grants and subsidies received
+LASQ.SSRACZ,2012.06,Quarterly,332750,Final,Dollars,3,Local Authority Statistics - LAS,Income - Seasonally Adjusted,All government grants and subsidies receivedAll government grants and subsidies receivedd
+LASQ.SSRADZ,1992.09,Quarterly,26152,Final,Dollars,3,Local Authority Statistics - LAS,Income - Seasonally Adjusted,Investment income income
+LASQ.SSRADZ,1993.12,Quarterly,46205,Final,Dollars,3,Local Authority Statistics - LAS,Income - Seasonally Adjusted,Investment income
+LASQ.SSRADZ,1994.03,Quarterly,41573,Final,Dollars,3,Local Authority Statistics - LAS,Income - Seasonally Adjusted,Investment income
+LASQ.SSRADZ,1994.06,Quarterly,70632,Final,Dollars,3,Local Authority Statistics - LAS,Income - Seasonally Adjusted,Investment incometistics - LAS,Income - Actual,Interest received
+LASA.SARADA,2013.06,Annual,152045,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Interest received
+LASA.SARADA,2014.06,Annual,172063,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Interest receivedceived
+LASA.SARADA,2020.06,Annual,208751,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Interest received
+LASA.SARADA,2021.06,Annual,191299,Provisional,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Interest received
+LASA.SARADB,1993.06,Annual,73922,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Dividends received
+LASA.SARADB,1994.06,Annual,61209,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Dividends receivedLAS,Income - Actual,Dividends received
+LASA.SARADB,2018.06,Annual,435431,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Dividends received
+LASA.SARADB,2019.06,Annual,794123,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Dividends received
+LASA.SARADB,2020.06,Annual,202265,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Dividends received
+LASA.SARADB,2021.06,Annual,164393,Provisional,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Dividends received
+LASA.SARADZ,1993.06,Annual,187695,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Investment income
+LASA.SARADZ,1997.06,Annual,256666,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Investment income
+LASA.SARADZ,1998.06,Annual,318292,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Investment incomeLAS,Income - Actual,Investment income
+LASA.SARADZ,2017.06,Annual,607489,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Investment income
+LASA.SARADZ,2018.06,Annual,653325,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Investment income
+LASA.SARADZ,2019.06,Annual,1037718,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Investment income
+LASA.SARADZ,2020.06,Annual,411016,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Investment income
+LASA.SARADZ,2021.06,Annual,355692,Provisional,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Investment incomecome
+LASA.SARAZZ,1996.06,Annual,3184179,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Total operating income- LAS,Income - Actual,Total operating income
+LASA.SARAZZ,2014.06,Annual,8193120,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Total operating income
+LASA.SARAZZ,2015.06,Annual,8525932,Final,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Total operating incomencome
+LASA.SARAZZ,2021.06,Annual,11577418,Provisional,Dollars,3,Local Authority Statistics - LAS,Income - Actual,Total operating income
